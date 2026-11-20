@@ -17,8 +17,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "AnyThinkSigmobAdapter",
-            url: "https://topon-sdk-release.oss-accelerate.aliyuncs.com/AnyThink_Release/iosnetwork_2/AnyThinkSigmobAdapter/5.2.0.2.0/AnyThinkSigmobAdapter-5.2.0.2.0.zip",
-            checksum: "478fd71dd56b70a90a600debd4e4e1bcfdf4339f777a690e3886b4e138a3ef47"
+            url: "https://topon-sdk-release.oss-accelerate.aliyuncs.com/AnyThink_Release/iosnetwork_2/AnyThinkSigmobAdapter/50203.2.10/AnyThinkSigmobAdapter-50203.2.10.zip",
+            checksum: "483e2a5be8ba6787bba74b0e4f5e8301f3876faf3873bd6d8a49c0661560de34"
         ),
         .target(
             name: "AnyThinkMediationSigmobAdapterTarget",
